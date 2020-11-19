@@ -7,7 +7,7 @@ Develop a solution that addresses one or more of the below challenges. We are no
 
 ##Criteria
 Develop an application that addresses one of the following challenges children in Sub-Saharan Africa experience: 
-      1. Literacy & Education - how can technology be implemented to decrease the current literacy rate in Africa from 65%. 
+      1. Literacy & Education - how can technology be implemented to decrease the current literacy rate in Africa from 65%.
       2. Health/COVID-19 - how can technology help combat the active cases of HIV/AIDS, tuberculosis, malaria and COVID-19 in Africa. 
       3. Other - any other impactful innovation creation that uplifts the present generation of youth in Africa for a brighter future. 
  
