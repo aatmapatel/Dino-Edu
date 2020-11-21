@@ -1,4 +1,4 @@
-# dino edu: A Childrens Colour book
+# Dino Edu: A Childrens Colour book
 
 ###Project: submission for the Hack For Africa: A Microsoft Challenge 2020 Hackathon 
 
